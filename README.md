@@ -9,7 +9,7 @@ C:\Users\WINDOWS 10\Documents\ESP32_2026\sample_04_1_button_interrupt\main
 ### Recursos en [developer link](https://developer.espressif.com/blog/2026/02/component-introduction-button/#key-features)
 
 Este ejemplo realiza la lectura de un botón y tiene como propósito mostrar el
-paso para agregar componentes (librerías a un proyecto) esto aplica para
+paso a paso para agregar componentes (librerías a un proyecto) esto aplica para
 componentes desarrollados por terceros o por espressif, en este caso este
 componente fue desarrollado por espressif, ya que como se observa en el nombre
 del componente aparece primero espressif y luego el nombre (espressif/button)

@@ -15,7 +15,7 @@ static void button_single_click_event_cb(void *arg, void *data)
 {
     (void)arg;
     (void)data;
-    ESP_LOGW(TAG, "TE AMO MI NATA HERMOSA");
+    ESP_LOGW(TAG, "TE AMO MI NATA HERMOSA y MI NIÑA");
 }
 
 static void button_double_click_event_cb(void *arg, void *data)
